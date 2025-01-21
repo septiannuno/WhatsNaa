@@ -1,0 +1,4 @@
+moment
+qrcode-terminal
+pino
+@whiskeysockets/baileys
